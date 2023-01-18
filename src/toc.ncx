@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="ru">
+  <head>
+    <meta name="dtb:uid" content="b22859a6-09eb-4bd6-a5e0-85ab516793d4"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (6.2.1)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>современная шахматная задача 1</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>От автора</text>
+      </navLabel>
+      <content src="from_author.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Введение</text>
+      </navLabel>
+      <content src="intro.xhtml"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>I. Первый ход белых.</text>
+      </navLabel>
+      <content src="chapter01.xhtml"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>II. Ход черных. Защита.</text>
+      </navLabel>
+      <content src="chapter02.xhtml"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>III. Второй ход белых (мат).</text>
+      </navLabel>
+      <content src="chapter03.xhtml"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>IV. Перекрытие.</text>
+      </navLabel>
+      <content src="chapter04.xhtml"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>V. Шахи белому королю.</text>
+      </navLabel>
+      <content src="chapter05.xhtml"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>VI. Блокирование.</text>
+      </navLabel>
+      <content src="chapter06.xhtml"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>VII. Развязывание.</text>
+      </navLabel>
+      <content src="chapter07.xhtml"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>VIII. Полусвязывание.</text>
+      </navLabel>
+      <content src="chapter08.xhtml"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>IX. Перемена матов.</text>
+      </navLabel>
+      <content src="chapter09.xhtml"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>X. Новейшие двухходовые идеи.</text>
+      </navLabel>
+      <content src="chapter10.xhtml"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>Сноски</text>
+      </navLabel>
+      <content src="terms.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier opf:scheme="calibre" id="calibre_id">9984c3fa-4a4b-4acb-9918-d05707008d52</dc:identifier>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">b22859a6-09eb-4bd6-a5e0-85ab516793d4</dc:identifier>
+    <dc:title>современная шахматная задача 1</dc:title>
+    <dc:creator opf:file-as="Неизвестный" opf:role="aut">Левман Семен</dc:creator>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.2.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>rus</dc:language>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="start.xhtml" id="start" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id" href="from_author.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id1" href="css/style.css" media-type="text/css"/>
+    <item id="id2" href="intro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id3" href="chapter01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id4" href="chapter02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id5" href="chapter03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id6" href="chapter04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id7" href="chapter05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id8" href="chapter06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id9" href="chapter07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id10" href="chapter08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id11" href="chapter09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id12" href="chapter10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id13" href="terms.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id14" href="toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover" href="cover_levman_1_small_16b.png" media-type="image/png"/>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id15" href="footnotes.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id16" href="fonts/merida.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="start"/>
+    <itemref idref="id14"/>
+    <itemref idref="id"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id15"/>
+    <itemref idref="id13"/>
+  </spine>
+  <guide>
+    <reference type="toc" title="Оглавление" href="toc.xhtml#calibre_generated_inline_toc"/>
+    <reference type="cover" title="Обложка" href="titlepage.xhtml"/>
+  </guide>
+</package>
