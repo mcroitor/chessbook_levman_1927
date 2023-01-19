@@ -7,6 +7,7 @@ algebraic:
   - Ph6
   - Pd6
   - Pc6
+  - Sa6
   - Qh7
   - Pg7
   - Sf8
@@ -390,6 +391,7 @@ stipulation: '#2'
 ---
 algebraic:
   black:
+  - Re2
   - Bc2
   - Pd3
   - Rg4
@@ -403,8 +405,9 @@ algebraic:
   - Sg7
   - Ba7
   white:
-  - Re2
+  - Pf2
   - Pf3
+  - Pf4
   - Bc4
   - Pc5
   - Qa5

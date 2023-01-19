@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier opf:scheme="calibre" id="calibre_id">9984c3fa-4a4b-4acb-9918-d05707008d52</dc:identifier>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">b22859a6-09eb-4bd6-a5e0-85ab516793d4</dc:identifier>
+    <dc:title>современная шахматная задача 1</dc:title>
+    <dc:creator opf:file-as="Неизвестный" opf:role="aut">Левман Семен</dc:creator>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.2.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>rus</dc:language>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="start.xhtml" id="start" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="id" href="from_author.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id1" href="css/style.css" media-type="text/css"/>
+    <item id="id2" href="intro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id3" href="chapter01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id4" href="chapter02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id5" href="chapter03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id6" href="chapter04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id7" href="chapter05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id8" href="chapter06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id9" href="chapter07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id10" href="chapter08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id11" href="chapter09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id12" href="chapter10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id13" href="terms.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id14" href="toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover" href="cover_levman_1_small_16b.png" media-type="image/png"/>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id15" href="footnotes.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id16" href="fonts/merida.ttf" media-type="application/x-font-truetype"/>
+    <item id="id17" href="diagrams/01_chapter/diagram0001.png" media-type="image/png"/>
+    <item id="id18" href="diagrams/01_chapter/diagram0002.png" media-type="image/png"/>
+    <item id="id19" href="diagrams/01_chapter/diagram0003.png" media-type="image/png"/>
+    <item id="id20" href="diagrams/01_chapter/diagram0004.png" media-type="image/png"/>
+    <item id="id21" href="diagrams/01_chapter/diagram0005.png" media-type="image/png"/>
+    <item id="id22" href="diagrams/01_chapter/diagram0006.png" media-type="image/png"/>
+    <item id="id23" href="diagrams/01_chapter/diagram0007.png" media-type="image/png"/>
+    <item id="id24" href="diagrams/01_chapter/diagram0008.png" media-type="image/png"/>
+    <item id="id25" href="diagrams/01_chapter/diagram0009.png" media-type="image/png"/>
+    <item id="id26" href="diagrams/01_chapter/diagram0010.png" media-type="image/png"/>
+    <item id="id27" href="diagrams/01_chapter/diagram0011.png" media-type="image/png"/>
+    <item id="id28" href="diagrams/01_chapter/diagram0012.png" media-type="image/png"/>
+    <item id="id29" href="diagrams/01_chapter/diagram0013.png" media-type="image/png"/>
+    <item id="id30" href="diagrams/01_chapter/diagram0014.png" media-type="image/png"/>
+    <item id="id31" href="diagrams/01_chapter/diagram0015.png" media-type="image/png"/>
+    <item id="id32" href="diagrams/01_chapter/diagram0016.png" media-type="image/png"/>
+    <item id="id33" href="diagrams/02_chapter/diagram0001.png" media-type="image/png"/>
+    <item id="id34" href="diagrams/02_chapter/diagram0002.png" media-type="image/png"/>
+    <item id="id35" href="diagrams/02_chapter/diagram0003.png" media-type="image/png"/>
+    <item id="id36" href="diagrams/02_chapter/diagram0004.png" media-type="image/png"/>
+    <item id="id37" href="diagrams/02_chapter/diagram0005.png" media-type="image/png"/>
+    <item id="id38" href="diagrams/02_chapter/diagram0006.png" media-type="image/png"/>
+    <item id="id39" href="diagrams/03_chapter/diagram0001.png" media-type="image/png"/>
+    <item id="id40" href="diagrams/03_chapter/diagram0002.png" media-type="image/png"/>
+    <item id="id41" href="diagrams/03_chapter/diagram0003.png" media-type="image/png"/>
+    <item id="id42" href="diagrams/03_chapter/diagram0004.png" media-type="image/png"/>
+    <item id="id43" href="diagrams/03_chapter/diagram0005.png" media-type="image/png"/>
+    <item id="id44" href="diagrams/03_chapter/diagram0006.png" media-type="image/png"/>
+    <item id="id45" href="diagrams/03_chapter/diagram0007.png" media-type="image/png"/>
+    <item id="id46" href="diagrams/03_chapter/diagram0008.png" media-type="image/png"/>
+    <item id="id47" href="diagrams/03_chapter/diagram0009.png" media-type="image/png"/>
+    <item id="id48" href="diagrams/03_chapter/diagram0010.png" media-type="image/png"/>
+    <item id="id49" href="diagrams/04_chapter/diagram0001.png" media-type="image/png"/>
+    <item id="id50" href="diagrams/04_chapter/diagram0002.png" media-type="image/png"/>
+    <item id="id51" href="diagrams/04_chapter/diagram0003.png" media-type="image/png"/>
+    <item id="id52" href="diagrams/04_chapter/diagram0004.png" media-type="image/png"/>
+    <item id="id53" href="diagrams/04_chapter/diagram0005.png" media-type="image/png"/>
+    <item id="id54" href="diagrams/04_chapter/diagram0006.png" media-type="image/png"/>
+    <item id="id55" href="diagrams/04_chapter/diagram0007.png" media-type="image/png"/>
+    <item id="id56" href="diagrams/04_chapter/diagram0008.png" media-type="image/png"/>
+    <item id="id57" href="diagrams/04_chapter/diagram0009.png" media-type="image/png"/>
+    <item id="id58" href="diagrams/04_chapter/diagram0010.png" media-type="image/png"/>
+    <item id="id59" href="diagrams/04_chapter/diagram0011.png" media-type="image/png"/>
+    <item id="id60" href="diagrams/04_chapter/diagram0012.png" media-type="image/png"/>
+    <item id="id61" href="diagrams/04_chapter/diagram0013.png" media-type="image/png"/>
+    <item id="id62" href="diagrams/05_chapter/diagram0001.png" media-type="image/png"/>
+    <item id="id63" href="diagrams/05_chapter/diagram0002.png" media-type="image/png"/>
+    <item id="id64" href="diagrams/05_chapter/diagram0003.png" media-type="image/png"/>
+    <item id="id65" href="diagrams/05_chapter/diagram0004.png" media-type="image/png"/>
+    <item id="id66" href="diagrams/05_chapter/diagram0005.png" media-type="image/png"/>
+    <item id="id67" href="diagrams/05_chapter/diagram0006.png" media-type="image/png"/>
+    <item id="id68" href="diagrams/05_chapter/diagram0007.png" media-type="image/png"/>
+    <item id="id69" href="diagrams/05_chapter/diagram0008.png" media-type="image/png"/>
+    <item id="id70" href="diagrams/05_chapter/diagram0009.png" media-type="image/png"/>
+    <item id="id71" href="diagrams/05_chapter/diagram0010.png" media-type="image/png"/>
+    <item id="id72" href="diagrams/05_chapter/diagram0011.png" media-type="image/png"/>
+    <item id="id73" href="diagrams/05_chapter/diagram0012.png" media-type="image/png"/>
+    <item id="id74" href="diagrams/05_chapter/diagram0013.png" media-type="image/png"/>
+    <item id="id75" href="diagrams/05_chapter/diagram0014.png" media-type="image/png"/>
+    <item id="id76" href="diagrams/05_chapter/diagram0015.png" media-type="image/png"/>
+    <item id="id77" href="diagrams/05_chapter/diagram0016.png" media-type="image/png"/>
+    <item id="id78" href="diagrams/05_chapter/diagram0017.png" media-type="image/png"/>
+    <item id="id79" href="diagrams/05_chapter/diagram0018.png" media-type="image/png"/>
+    <item id="id80" href="diagrams/06_chapter/diagram0001.png" media-type="image/png"/>
+    <item id="id81" href="diagrams/06_chapter/diagram0002.png" media-type="image/png"/>
+    <item id="id82" href="diagrams/06_chapter/diagram0003.png" media-type="image/png"/>
+    <item id="id83" href="diagrams/06_chapter/diagram0004.png" media-type="image/png"/>
+    <item id="id84" href="diagrams/06_chapter/diagram0005.png" media-type="image/png"/>
+    <item id="id85" href="diagrams/06_chapter/diagram0006.png" media-type="image/png"/>
+    <item id="id86" href="diagrams/06_chapter/diagram0007.png" media-type="image/png"/>
+    <item id="id87" href="diagrams/06_chapter/diagram0008.png" media-type="image/png"/>
+    <item id="id88" href="diagrams/06_chapter/diagram0009.png" media-type="image/png"/>
+    <item id="id89" href="diagrams/06_chapter/diagram0010.png" media-type="image/png"/>
+    <item id="id90" href="diagrams/07_chapter/diagram0001.png" media-type="image/png"/>
+    <item id="id91" href="diagrams/07_chapter/diagram0002.png" media-type="image/png"/>
+    <item id="id92" href="diagrams/07_chapter/diagram0003.png" media-type="image/png"/>
+    <item id="id93" href="diagrams/07_chapter/diagram0004.png" media-type="image/png"/>
+    <item id="id94" href="diagrams/07_chapter/diagram0005.png" media-type="image/png"/>
+    <item id="id95" href="diagrams/07_chapter/diagram0006.png" media-type="image/png"/>
+    <item id="id96" href="diagrams/07_chapter/diagram0007.png" media-type="image/png"/>
+    <item id="id97" href="diagrams/07_chapter/diagram0008.png" media-type="image/png"/>
+    <item id="id98" href="diagrams/07_chapter/diagram0009.png" media-type="image/png"/>
+    <item id="id99" href="diagrams/07_chapter/diagram0010.png" media-type="image/png"/>
+    <item id="id100" href="diagrams/07_chapter/diagram0011.png" media-type="image/png"/>
+    <item id="id101" href="diagrams/07_chapter/diagram0012.png" media-type="image/png"/>
+    <item id="id102" href="diagrams/07_chapter/diagram0013.png" media-type="image/png"/>
+    <item id="id103" href="diagrams/07_chapter/diagram0014.png" media-type="image/png"/>
+    <item id="id104" href="diagrams/07_chapter/diagram0015.png" media-type="image/png"/>
+    <item id="id105" href="diagrams/07_chapter/diagram0016.png" media-type="image/png"/>
+    <item id="id106" href="diagrams/07_chapter/diagram0017.png" media-type="image/png"/>
+    <item id="id107" href="diagrams/07_chapter/diagram0018.png" media-type="image/png"/>
+    <item id="id108" href="diagrams/07_chapter/diagram0019.png" media-type="image/png"/>
+    <item id="id109" href="diagrams/07_chapter/diagram0020.png" media-type="image/png"/>
+    <item id="id110" href="diagrams/07_chapter/diagram0021.png" media-type="image/png"/>
+    <item id="id111" href="diagrams/07_chapter/diagram0022.png" media-type="image/png"/>
+    <item id="id112" href="diagrams/07_chapter/diagram0023.png" media-type="image/png"/>
+    <item id="id113" href="diagrams/07_chapter/diagram0024.png" media-type="image/png"/>
+    <item id="id114" href="diagrams/07_chapter/diagram0025.png" media-type="image/png"/>
+    <item id="id115" href="diagrams/07_chapter/diagram0028.png" media-type="image/png"/>
+    <item id="id116" href="diagrams/07_chapter/diagram0029.png" media-type="image/png"/>
+    <item id="id117" href="diagrams/07_chapter/diagram0030.png" media-type="image/png"/>
+    <item id="id118" href="diagrams/07_chapter/diagram0031.png" media-type="image/png"/>
+    <item id="id119" href="diagrams/08_chapter/diagram0001.png" media-type="image/png"/>
+    <item id="id120" href="diagrams/08_chapter/diagram0002.png" media-type="image/png"/>
+    <item id="id121" href="diagrams/08_chapter/diagram0003.png" media-type="image/png"/>
+    <item id="id122" href="diagrams/08_chapter/diagram0004.png" media-type="image/png"/>
+    <item id="id123" href="diagrams/08_chapter/diagram0005.png" media-type="image/png"/>
+    <item id="id124" href="diagrams/08_chapter/diagram0006.png" media-type="image/png"/>
+    <item id="id125" href="diagrams/08_chapter/diagram0007.png" media-type="image/png"/>
+    <item id="id126" href="diagrams/08_chapter/diagram0008.png" media-type="image/png"/>
+    <item id="id127" href="diagrams/08_chapter/diagram0009.png" media-type="image/png"/>
+    <item id="id128" href="diagrams/08_chapter/diagram0010.png" media-type="image/png"/>
+    <item id="id129" href="diagrams/08_chapter/diagram0011.png" media-type="image/png"/>
+    <item id="id130" href="diagrams/08_chapter/diagram0012.png" media-type="image/png"/>
+    <item id="id131" href="diagrams/08_chapter/diagram0013.png" media-type="image/png"/>
+    <item id="id132" href="diagrams/08_chapter/diagram0014.png" media-type="image/png"/>
+    <item id="id133" href="diagrams/08_chapter/diagram0015.png" media-type="image/png"/>
+    <item id="id134" href="diagrams/08_chapter/diagram0016.png" media-type="image/png"/>
+    <item id="id135" href="diagrams/08_chapter/diagram0017.png" media-type="image/png"/>
+    <item id="id136" href="diagrams/08_chapter/diagram0018.png" media-type="image/png"/>
+    <item id="id137" href="diagrams/08_chapter/diagram0019.png" media-type="image/png"/>
+    <item id="id138" href="diagrams/08_chapter/diagram0020.png" media-type="image/png"/>
+    <item id="id139" href="diagrams/09_chapter/diagram0001.png" media-type="image/png"/>
+    <item id="id140" href="diagrams/09_chapter/diagram0002.png" media-type="image/png"/>
+    <item id="id141" href="diagrams/09_chapter/diagram0003.png" media-type="image/png"/>
+    <item id="id142" href="diagrams/09_chapter/diagram0004.png" media-type="image/png"/>
+    <item id="id143" href="diagrams/09_chapter/diagram0005.png" media-type="image/png"/>
+    <item id="id144" href="diagrams/09_chapter/diagram0006.png" media-type="image/png"/>
+    <item id="id145" href="diagrams/09_chapter/diagram0007.png" media-type="image/png"/>
+    <item id="id146" href="diagrams/09_chapter/diagram0008.png" media-type="image/png"/>
+    <item id="id147" href="diagrams/09_chapter/diagram0009.png" media-type="image/png"/>
+    <item id="id148" href="diagrams/09_chapter/diagram0010.png" media-type="image/png"/>
+    <item id="id149" href="diagrams/09_chapter/diagram0011.png" media-type="image/png"/>
+    <item id="id150" href="diagrams/09_chapter/diagram0012.png" media-type="image/png"/>
+    <item id="id151" href="diagrams/09_chapter/diagram0013.png" media-type="image/png"/>
+    <item id="id152" href="diagrams/09_chapter/diagram0014.png" media-type="image/png"/>
+    <item id="id153" href="diagrams/09_chapter/diagram0015.png" media-type="image/png"/>
+    <item id="id154" href="diagrams/09_chapter/diagram0016.png" media-type="image/png"/>
+    <item id="id155" href="diagrams/09_chapter/diagram0017.png" media-type="image/png"/>
+    <item id="id156" href="diagrams/09_chapter/diagram0018.png" media-type="image/png"/>
+    <item id="id157" href="diagrams/09_chapter/diagram0019.png" media-type="image/png"/>
+    <item id="id158" href="diagrams/09_chapter/diagram0020.png" media-type="image/png"/>
+    <item id="id159" href="diagrams/09_chapter/diagram0021.png" media-type="image/png"/>
+    <item id="id160" href="diagrams/09_chapter/diagram0022.png" media-type="image/png"/>
+    <item id="id161" href="diagrams/09_chapter/diagram0023.png" media-type="image/png"/>
+    <item id="id162" href="diagrams/09_chapter/diagram0024.png" media-type="image/png"/>
+    <item id="id163" href="diagrams/09_chapter/diagram0025.png" media-type="image/png"/>
+    <item id="id164" href="diagrams/09_chapter/diagram0026.png" media-type="image/png"/>
+    <item id="id165" href="diagrams/09_chapter/diagram0027.png" media-type="image/png"/>
+    <item id="id166" href="diagrams/09_chapter/diagram0028.png" media-type="image/png"/>
+    <item id="id167" href="diagrams/09_chapter/diagram0029.png" media-type="image/png"/>
+    <item id="id168" href="diagrams/09_chapter/diagram0030.png" media-type="image/png"/>
+    <item id="id169" href="diagrams/09_chapter/diagram0031.png" media-type="image/png"/>
+    <item id="id170" href="diagrams/09_chapter/diagram0032.png" media-type="image/png"/>
+    <item id="id171" href="diagrams/09_chapter/diagram0033.png" media-type="image/png"/>
+    <item id="id172" href="diagrams/09_chapter/diagram0034.png" media-type="image/png"/>
+    <item id="id173" href="diagrams/09_chapter/diagram0035.png" media-type="image/png"/>
+    <item id="id174" href="diagrams/09_chapter/diagram0036.png" media-type="image/png"/>
+    <item id="id175" href="diagrams/10_chapter/diagram0001.png" media-type="image/png"/>
+    <item id="id176" href="diagrams/10_chapter/diagram0002.png" media-type="image/png"/>
+    <item id="id177" href="diagrams/10_chapter/diagram0003.png" media-type="image/png"/>
+    <item id="id178" href="diagrams/10_chapter/diagram0004.png" media-type="image/png"/>
+    <item id="id179" href="diagrams/10_chapter/diagram0005.png" media-type="image/png"/>
+    <item id="id180" href="diagrams/10_chapter/diagram0006.png" media-type="image/png"/>
+    <item id="id181" href="diagrams/10_chapter/diagram0007.png" media-type="image/png"/>
+    <item id="id182" href="diagrams/10_chapter/diagram0008.png" media-type="image/png"/>
+    <item id="id183" href="diagrams/10_chapter/diagram0009.png" media-type="image/png"/>
+    <item id="id184" href="diagrams/10_chapter/diagram0010.png" media-type="image/png"/>
+    <item id="id185" href="diagrams/10_chapter/diagram0011.png" media-type="image/png"/>
+    <item id="id186" href="diagrams/10_chapter/diagram0012.png" media-type="image/png"/>
+    <item id="id187" href="diagrams/10_chapter/diagram0013.png" media-type="image/png"/>
+    <item id="id188" href="diagrams/10_chapter/diagram0014.png" media-type="image/png"/>
+    <item id="id189" href="diagrams/10_chapter/diagram0015.png" media-type="image/png"/>
+    <item id="id190" href="diagrams/10_chapter/diagram0016.png" media-type="image/png"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="start"/>
+    <itemref idref="id14"/>
+    <itemref idref="id"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id15"/>
+    <itemref idref="id13"/>
+  </spine>
+  <guide>
+    <reference type="toc" title="Оглавление" href="toc.xhtml#calibre_generated_inline_toc"/>
+    <reference type="cover" title="Обложка" href="titlepage.xhtml"/>
+  </guide>
+</package>

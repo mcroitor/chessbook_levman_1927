@@ -491,6 +491,7 @@ algebraic:
   - Sg3
   - Re3
   - Ph4
+  - Rh7
   - Bf7
   - Sc8
 options:
@@ -508,6 +509,7 @@ algebraic:
   - Qf4
   - Ke4
   - Sc4
+  - Pg5
   - Rf5
   - Pe6
   - Pb6
@@ -843,6 +845,7 @@ algebraic:
   - Pb6
   - Ra6
   - Pb7
+  - Bh8
   white:
   - Bh1
   - Ka1
@@ -880,6 +883,7 @@ algebraic:
   - Sd3
   - Rb4
   - Ph5
+  - Pe5
   - Pd6
   - Pb6
   - Sg7

@@ -24,6 +24,7 @@ stipulation: '#2'
 algebraic:
   black:
   - Bh3
+  - Bc3
   - Rc4
   - Pb4
   - Ke5
@@ -33,7 +34,6 @@ algebraic:
   white:
   - Rf2
   - Re2
-  - Bc3
   - Pe4
   - Bc5
   - Qa5
@@ -269,6 +269,7 @@ algebraic:
   black:
   - Ke2
   - Re4
+  - Ra4
   - Se6
   - Ba7
   - Ba8
@@ -351,14 +352,15 @@ algebraic:
   - Pa4
   - Sc5
   - Ke6
+  - Ra6
   - Qa7
+  - Sd8
   white:
   - Qf2
   - Se3
   - Rd4
   - Rf5
   - Sb5
-  - Ra6
   - Kh7
   - Pc7
   - Bf8
@@ -380,6 +382,7 @@ algebraic:
   - Pd4
   - Ph5
   - Pd5
+  - Rh6
   - Sa7
   - Bd8
   white:
@@ -389,8 +392,7 @@ algebraic:
   - Rd3
   - Rb3
   - Pf4
-  - Rh6
-  - Ke6
+  - Se6
   - Ka6
 options:
 - NoThreat
@@ -575,6 +577,7 @@ algebraic:
   - Qb2
   - Pe3
   - Ke4
+  - Ra4
   white:
   - Qf1
   - Pg3
@@ -809,6 +812,7 @@ algebraic:
   - Qf5
   - Rh6
   - Pa6
+  - Sd7
   - Rc8
   white:
   - Rf1
